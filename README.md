@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white&labelColor=6DB33F"> &nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&labelColor=61DAFB"> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&labelColor=4479A1"> <hr>
+
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&labelColor=3776AB"> &nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&labelColor=A8B9CC"> &nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&labelColor=00599C"> &nbsp;
