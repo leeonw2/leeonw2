@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://velog.io/@soyeon207"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@soyeon207"/>
+<a href="https://velog.io/@soyeon207"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jwlee125.tistory.com/>
