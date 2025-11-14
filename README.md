@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img src="https://img.shields.io/badge/Spring-#6DB33F?logo=Spring"> -->
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring"> 
 <img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
