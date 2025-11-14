@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
 <img src="https://img.shields.io/badge/Spring-Spring?logo=FFFFFF"> 
 <img src="https://img.shields.io/badge/SpringBoot-SpringBoot?logo=FFFFFF"> 
 <img src="https://img.shields.io/badge/React-React?logo=FFFFFF"> 
