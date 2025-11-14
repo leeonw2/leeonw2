@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&labelColor=3776AB"> &nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&labelColor=A8B9CC"> &nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&labelColor=00599C"> &nbsp;
-<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&labelColor=007396"> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&labelColor=F7DF1E"> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&labelColor=1572B6"> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&labelColor=E34F26">
+<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&labelColor=007396"> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&labelColor=F7DF1E"> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&labelColor=1572B6"> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&labelColor=E34F26">
+
 
 
 
