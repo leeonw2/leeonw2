@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Spring-Spring?logo=Spring"> 
-<img src="https://img.shields.io/badge/SpringBoot-020715?logo=SpringBoot"> 
-<img src="https://img.shields.io/badge/React-020715?logo=React"> 
-<img src="https://img.shields.io/badge/MySQL-020715?logo=MySQL">
+<img src="https://img.shields.io/badge/Spring-Spring?logo=FFFFFF"> 
+<img src="https://img.shields.io/badge/SpringBoot-SpringBoot?logo=FFFFFF"> 
+<img src="https://img.shields.io/badge/React-React?logo=FFFFFF"> 
+<img src="https://img.shields.io/badge/MySQL-MySQL?logo=FFFFFF">
